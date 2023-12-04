@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RhysPrograms
+- 👀 I’m interested a Test Engineer working in the Financial Services Industry
+- 🌱 I’m currently learning Web Development, and Game Development
+- 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/rhys-atkinson-239b03233/
