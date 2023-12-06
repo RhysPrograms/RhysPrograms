@@ -2,4 +2,3 @@
 - 👀 I’m a Test Engineer working in the Financial Services Industry and an IT Tutor
 - 🌱 I’m currently learning Web Development, and Game Development
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/rhys-atkinson-239b03233/
-- 
